@@ -1,0 +1,26 @@
+{
+  "name": "Learn-NextJS",
+  "version": "1.0.0",
+  "description": "Learning NextJS",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyen-fs90/Learn-NextJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyen-fs90/Learn-NextJS/issues"
+  },
+  "homepage": "https://github.com/nguyen-fs90/Learn-NextJS#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

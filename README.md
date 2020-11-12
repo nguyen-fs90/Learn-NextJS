@@ -1,2 +1,3 @@
 # Learn-NextJS
+
 Learning NextJS
