@@ -15,9 +15,10 @@ Sử dụng useRouter để tạo Dynamic Routers trong Next
 
 - Định nghĩa dynamic router: post/[pid].jsx
 Có thể theo dõi giá trị được truyền vào [pid] thông qua object query:
+
 VD1: http://localhost/post/abc
 
-```Javsscript
+```Javascript
 NextRouter: {
     query: {
         pid: 'abc',
@@ -27,7 +28,7 @@ NextRouter: {
 
 VD2: http://localhost/post/abc?foo=bar
 
-```Javsscript
+```Javascript
 NextRouter: {
     query: {
         pid: 'abc',
